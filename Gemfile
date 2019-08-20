@@ -12,7 +12,9 @@ gem 'puma', '~> 3.11'
 
 gem 'rack-cors'
 gem 'rack-attack'
+
 gem 'devise', '~> 4.4'
+gem 'simple_token_authentication', '~> 1.0'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
