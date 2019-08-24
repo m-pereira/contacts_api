@@ -1,24 +1,28 @@
-# README
+# Contacts api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi there! this is my first api with ruby on rails.
+Here I learned how to build a simple api to handle contacts.
 
-Things you may want to cover:
+## You can download it and use in your local:
 
-* Ruby version
+* First you need to clone the code:
+  
+  SSH key:
 
-* System dependencies
+      $ git clone git@github.com:m-pereira/contacts_api.git
+  
+  or this one:
 
-* Configuration
+      $ git clone https://github.com/m-pereira/contacts_api.git
 
-* Database creation
+* The you need to run bundle to install the gems needed:
 
-* Database initialization
+      $ bundle install
 
-* How to run the test suite
+* Now you need to start the rails server:
 
-* Services (job queues, cache servers, search engines, etc.)
+      $ rails server
 
-* Deployment instructions
+* Now you may be able to see the api running.
 
-* ...
+You can use curl, postman or another way to see that. Enjoy it!
